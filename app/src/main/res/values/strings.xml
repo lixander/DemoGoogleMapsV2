@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoGoogleMapsV2</string>
+    <string name="activity_name">Fragment Dinamic</string>
+    <string name="fragmentA">Fragment A!</string>
+    <string name="fragmentB">Fragment B!</string>
+    <string name="action_settings">Settings</string>
+</resources>
